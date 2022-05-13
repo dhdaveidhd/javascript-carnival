@@ -60,3 +60,8 @@ td {
 .shoes {
   z-index: 1
 }
+
+#molePic {
+  height: auto;
+  max-width: 100%;
+}
